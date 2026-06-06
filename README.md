@@ -78,7 +78,7 @@ This repository provides a collection of **fishing game art assets**, including 
 
 * Telegram:@fox_lovemyself
 
-💬 Custom assets available
+
 
 ---
 
