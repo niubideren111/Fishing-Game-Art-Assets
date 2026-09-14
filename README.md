@@ -1,11 +1,9 @@
-# 🎣 Fishing Game Assets | Fish Game Art Resources | 打鱼源码|捕鱼资源|捕鱼游戏美术资源 |打鱼游戏| 遊戲素材資源|捕鱼源码|
+# 🎣 Fishing Game Assets | Fish Game Art Resources |捕鱼游戏美术资源｜Boss、鱼类图集与动画素材|捕鱼源码|
 
-🔥 High-quality fishing game assets (sprites / UI / effects)
-🔥 Ready-to-use game art resources
-🔥 Suitable for Unity / Cocos / Web games
-🔥 Commercial use supported
 
-💡 Perfect for building fishing games, arcade games, and mobile games
+**Fishing Game Art Assets** — Fishing game artwork with Boss previews, texture atlases, PNG images and animation JSON files.
+
+捕魚遊戲美術資源，Boss 展示、魚類圖集與動畫素材。
 
 ---
 
@@ -39,22 +37,8 @@ This repository provides a collection of **fishing game art assets**, including 
 
 ---
 
-## 📦 Format | 格式说明 | 格式說明
-
-* PNG / Sprite Sheets
-* High resolution assets
-* Easy to integrate
-
 ---
 
-## 🚀 Why This Asset Pack | 为什么选择 | 為什麼選擇
-
-* ✔ Ready-to-use assets
-* ✔ Save design time
-* ✔ Suitable for commercial projects
-* ✔ Easy integration
-
-👉 Build your game faster
 
 ---
 
@@ -81,19 +65,12 @@ This repository provides a collection of **fishing game art assets**, including 
 <img width="1403" height="1019" alt="屏幕截图 2024-04-27 125741" src="https://github.com/user-attachments/assets/2e108d77-54d5-4e12-93f8-ae67ecebed6b" />
 ---
 
-## 📞 Contact | 联系方式 | 聯絡方式
+💡 Perfect for building fishing games, arcade games, and mobile games
 
-* Telegram:@fox_lovemyself
+## 许可
 
+请按仓库现有 [LICENSE](LICENSE) 与 [License.md](License.md) 使用公开文件。商业工程、美术资源和完整部署资料的授权范围以书面约定为准。
 
-
----
-
-## ⚠️ License | 声明 | 聲明
-
-For educational and commercial use (depending on agreement).
-
----
 
 ## 🔍 SEO Keywords
 
