@@ -1,6 +1,12 @@
-# 🎣 Fishing Game Assets | Fish Game Art Resources |捕鱼游戏美术资源｜Boss、鱼类图集与动画素材|捕鱼源码|
+# 捕鱼游戏美术资源｜Boss、鱼类图集与动画素材
 
+> 中文简体 · 中文繁體 · English 多语言产品与源码资料
 
+[简体中文](README.zh-CN.md) · [繁體中文](README.zh-TW.md) · [English](README.en.md) · [产品页面](https://niubideren111.github.io/Fishing-Game-Art-Assets/zh-cn/)
+
+展示捕鱼游戏 Boss、鱼类图集及动画配套文件。仓库中的 PNG、atlas 和 JSON 文件可用于了解素材组织结构，场景截图展示素材在捕鱼游戏中的组合效果。
+
+**捕鱼游戏美术资源 · 捕鱼素材 · 捕鱼Boss素材 · 捕鱼游戏图集**
 **Fishing Game Art Assets** — Fishing game artwork with Boss previews, texture atlases, PNG images and animation JSON files.
 
 捕魚遊戲美術資源，Boss 展示、魚類圖集與動畫素材。
@@ -37,7 +43,16 @@ This repository provides a collection of **fishing game art assets**, including 
 
 ---
 
----
+## 公开源码与资料
+
+| 文件 | 说明 |
+|---|---|
+| [boss2.jpg](boss2.jpg) | Boss 战斗效果图 |
+| [01/by_01.png](01/by_01.png) | 鱼类纹理图集 |
+| [01/by_01.atlas](01/by_01.atlas) | 图集描述 |
+| [01/by_01.json](01/by_01.json) | 动画数据 |
+| [道具列表及道具掉落服务器判定.xlsx](%E9%81%93%E5%85%B7%E5%88%97%E8%A1%A8%E5%8F%8A%E9%81%93%E5%85%B7%E6%8E%89%E8%90%BD%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%88%A4%E5%AE%9A.xlsx) | 道具设计表 |
+
 
 
 ---
@@ -65,11 +80,17 @@ This repository provides a collection of **fishing game art assets**, including 
 <img width="1403" height="1019" alt="屏幕截图 2024-04-27 125741" src="https://github.com/user-attachments/assets/2e108d77-54d5-4e12-93f8-ae67ecebed6b" />
 ---
 
-💡 Perfect for building fishing games, arcade games, and mobile games
 
-## 许可
+## 相关项目
 
-请按仓库现有 [LICENSE](LICENSE) 与 [License.md](License.md) 使用公开文件。商业工程、美术资源和完整部署资料的授权范围以书面约定为准。
+- [Fishing-Game-Source-Code](https://github.com/niubideren111/Fishing-Game-Source-Code)
+- [Chess-and-Card-Game-Product-Design-Copy](https://github.com/niubideren111/Chess-and-Card-Game-Product-Design-Copy)
+
+## 资料范围与许可
+公开仓库提供部分图集和动画文件以及效果预览；完整美术素材包与授权范围通过项目联系方式沟通。 公开内容以实际文件、依赖和许可为准，不承诺搜索排名、直接上线或固定性能结果。
+
+- Telegram: [@fox_lovemyself](https://t.me/fox_lovemyself)
+- GitHub: [Fishing-Game-Art-Assets](https://github.com/niubideren111/Fishing-Game-Art-Assets)
 
 
 ## 🔍 SEO Keywords
