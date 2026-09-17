@@ -6,6 +6,25 @@
 
 **捕鱼游戏美术资源 · 捕鱼素材 · 捕鱼Boss素材 · 捕鱼游戏图集**
 
+## ✨ Asset Includes | 资源内容 | 資源內容
+
+* 🐟 Fish sprites（鱼类素材）
+* 🎮 Game UI（界面UI）
+* 💥 Effects（特效）
+* 🎯 Icons & elements（图标与元素）
+* 🌊 Backgrounds（背景）
+* 3D模型
+
+---
+
+## 💡 Use Cases | 使用场景 | 使用場景
+
+* Fishing game development（捕鱼游戏开发）
+* Arcade game（街机游戏）
+* Mobile game（手游）
+* Unity / Cocos projects
+
+
 ## 项目重点
 
 ### Boss 效果预览
